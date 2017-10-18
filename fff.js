@@ -14,5 +14,3 @@ var odds = evens.map(v => v + 1);
 //dev
 //hhaha
 //dev1
-//dev2
-//dev3
